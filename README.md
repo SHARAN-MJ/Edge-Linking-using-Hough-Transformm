@@ -83,7 +83,7 @@ plt.show()
 
 
 #### Display the result of Hough transform
-![Uploading Screenshot 2024-04-12 091048.png…]()
+![Screenshot 2024-04-12 091048](https://github.com/SHARAN-MJ/Edge-Linking-using-Hough-Transformm/assets/119560305/1ad809c7-a35f-4ba5-93f0-a365fa2efef9)
 
 ### Result:
 Thus the program is written with python and OpenCV to detect lines using Hough transform.
